@@ -1,1 +1,1 @@
-Traversal Seyahat sitesi olarak tasarladığım bir web sitedir.
+Traversal Seyahat sitesi olarak ön yüzünü tasarladığım bir web sitedir.Burada nerelere gidilebilir . Daha önce nasıl deneyimler yaşanmış?  Hem rehberlerin hem de kullanıcıların  deneyimlerinden bahsettiği bir platform olarak tasarlanmıştır.
